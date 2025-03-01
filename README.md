@@ -69,6 +69,8 @@ ________________________________________
 
 ________________________________________ ________________________________________________________________________________
 
+
+
 ## Analysis of How the TCP/IP Protocol Suite Operates across Layers using web page as a case scenario
 
 The TCP/IP protocol suite is a set of communication protocols used to interconnect network devices on the internet. It operates across four layers: Application, Transport, Internet, and Network Access. I’ll analyze how these layers work together taking the case scenario of loading a web page
